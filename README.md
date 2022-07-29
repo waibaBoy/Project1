@@ -1,2 +1,2 @@
-# Project1
-Travel Log Application
+# Javascript
+Project Js
